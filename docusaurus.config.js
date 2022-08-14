@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Xiejianjun',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'JJXIE',
   url: 'https://xiejianjun.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
